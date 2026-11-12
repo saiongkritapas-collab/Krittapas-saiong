@@ -22,8 +22,8 @@ A simple, clean GitHub portfolio. Each project has its own repository with a REA
 - [x] GitHub account
 - [x] Project repository with README
 - [ ] Personal profile README (About me)
-- [ ] Clear project question and business goal
-- [ ] Data sources listed
+- [X] Clear project question and business goal
+- [X] Data sources listed
 - [ ] Cleaned dataset and code (Excel / SQL / Python)
 - [ ] Visualizations (charts or dashboard)
 - [ ] Summary of findings and conclusion
